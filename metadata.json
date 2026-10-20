@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Co-Working Office — 4-Robot Studio",
+  "description": "Interactive 3D isometric pastel co-working office featuring 4 autonomous companion robots coding, operating PCs, organizing the planning board, and interacting with a 3D holographic screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
